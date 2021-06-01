@@ -1,3 +1,5 @@
 #custom
 .idea/
 .vscode/
+bin/
+obj/
